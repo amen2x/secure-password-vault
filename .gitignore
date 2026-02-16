@@ -1,0 +1,1 @@
+salt.bin echo check.token echo passwor.txt echo key.key echo pycache/ echo *.pyc 
